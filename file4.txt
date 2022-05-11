@@ -1,3 +1,4 @@
 this is a test file
 stash testing 1
 added line from local server
+added ine from server
